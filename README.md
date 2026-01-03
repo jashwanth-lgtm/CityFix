@@ -1,4 +1,4 @@
-# 🏙️ SmartCity
+# 🏙️ CityFix
 
 ### **Civic Complaint Management System**
 
@@ -8,7 +8,7 @@
 
 ## 📖 About The Project
 
-**SmartCity** is a robust web application designed to streamline the process of reporting and resolving civic issues. By providing a direct channel between citizens and administration, it ensures that grievances like potholes, garbage accumulation, or street light failures are reported, tracked, and resolved efficiently.
+**CityFix** is a robust web application designed to streamline the process of reporting and resolving civic issues. By providing a direct channel between citizens and administration, it ensures that grievances like potholes, garbage accumulation, or street light failures are reported, tracked, and resolved efficiently.
 
 This "Major Project" demonstrates a full-stack implementation of a real-world problem-solving tool, featuring secure authentication, image handling, and role-based dashboards.
 
@@ -58,8 +58,8 @@ Follow these steps to set up the project locally on your machine.
 
 1.  **Clone the Repository**
     ```bash
-    git clone https://github.com/yourusername/smartcity-major.git
-    cd smartcity-major
+    git clone https://github.com/jashwanth-lgtm/CityFix.git
+    cd CityFix
     ```
 
 2.  **Setup Backend (Server)**
@@ -131,5 +131,5 @@ Distributed under the ISC License.
 ---
 
 <div align="center">
-  <sub>Built with ❤️ by [Your Name]</sub>
+  <sub>Built with ❤️ by Jashwanth </sub>
 </div>
